@@ -28,7 +28,7 @@ Some of the key findings from the analysis include:
 * **supermarket_sales.csv:** The raw dataset used for the analysis.
 * **supermarket_sales_analysis.ipynb:** Jupyter Notebook containing the Python code for data cleaning, transformation, analysis, and visualization.
 * **rating chart.html:**  HTML file of an interactive Plotly chart showing ratings per day of the week.
-* **[Other visualization files]:**  Include any other image files you generated (e.g., the bar chart, box plot, histogram, etc.)
+
 
 ## Libraries Used
 
